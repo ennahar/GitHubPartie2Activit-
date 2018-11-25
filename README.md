@@ -1,2 +1,2 @@
-# GitHubPartie2Activit-
-Partie 2 du cours Git et GitHub sur OC
+# OpenClassrooms : Git & GitHub
+Partie 2 => Activité
